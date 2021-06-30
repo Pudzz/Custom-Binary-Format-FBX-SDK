@@ -7,7 +7,7 @@ FBX files are opened with the FBS SDK, and the information is converted to a cus
 The custom format includes the following:
 
     Mesh data [Vertices]
-    Lambert materials [Support for Phong and HLSL]
+    Lambert materials [Support for Phong and HLSL, just uncomment the code]
     Textures [Diffuse and Normal/Bump]
     Cameras
     Lights
