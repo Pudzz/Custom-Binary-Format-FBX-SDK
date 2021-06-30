@@ -14,4 +14,5 @@ The custom format includes the following:
     Morph target animation
 
 ## Included in repository
-Included in this repository is the converter that converts the FBX file to a bin-file. An import library that reads the bin-files is also included.
+- Included in this repository is the converter that converts the FBX file to a bin-file [Desktop in this demo]. 
+- An import library that reads the bin-files. [Write the right path to the bin-file]
