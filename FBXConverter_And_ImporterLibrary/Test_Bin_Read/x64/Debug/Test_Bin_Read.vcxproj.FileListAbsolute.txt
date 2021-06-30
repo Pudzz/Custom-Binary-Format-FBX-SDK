@@ -1,0 +1,10 @@
+E:\Litet_Spel\LitetSpelprojekt\Test_Bin_Read\x64\Debug\Test_Bin_Read.exe
+E:\Litet_Spel\LitetSpelprojekt\Test_Bin_Read\x64\Debug\Test_Bin_Read.pdb
+E:\TA_importer\Test_Bin_Read\x64\Debug\Test_Bin_Read.exe
+E:\TA_importer\Test_Bin_Read\x64\Debug\Test_Bin_Read.pdb
+E:\TA_importer\Ta_Importer_exporter\Test_Bin_Read\x64\Debug\Test_Bin_Read.exe
+E:\TA_importer\Ta_Importer_exporter\Test_Bin_Read\x64\Debug\Test_Bin_Read.pdb
+E:\Ta_Importer_exporter\Test_Bin_Read\x64\Debug\Test_Bin_Read.exe
+E:\Ta_Importer_exporter\Test_Bin_Read\x64\Debug\Test_Bin_Read.pdb
+F:\_¤Högskolan¤_\#Avklarade\År 2\UD1446 - Litet Spelprojekt\FBX Converter_Inlämnad\Ta_Importer_exporter\Test_Bin_Read\x64\Debug\Test_Bin_Read.exe
+F:\_¤Högskolan¤_\#Avklarade\År 2\UD1446 - Litet Spelprojekt\FBX Converter_Inlämnad\Ta_Importer_exporter\Test_Bin_Read\x64\Debug\Test_Bin_Read.pdb

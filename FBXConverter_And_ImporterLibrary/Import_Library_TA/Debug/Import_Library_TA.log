@@ -1,0 +1,3 @@
+﻿  MemoryHandler.cpp
+E:\Ta_Importer_exporter\Import_Library_TA\MemoryHandler.cpp(16,21): warning C4018: '<': signed/unsigned mismatch
+  Import_Library_TA.vcxproj -> E:\Ta_Importer_exporter\Import_Library_TA\Debug\Import_Library_TA.lib

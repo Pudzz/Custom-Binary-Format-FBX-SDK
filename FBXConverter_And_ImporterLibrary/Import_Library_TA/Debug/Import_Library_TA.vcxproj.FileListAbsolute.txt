@@ -1,0 +1,5 @@
+E:\FBX SDK\Import_Library_TA\Debug\Import_Library_TA.lib
+E:\FBX SDK\Import_Library_TA\Debug\Import_Library_TA.pdb
+E:\FBX SDK\TestConsoleApp\Debug\Import_Library_TA.pdb
+E:\Ta_Importer_exporter\Import_Library_TA\Debug\Import_Library_TA.lib
+E:\Ta_Importer_exporter\Import_Library_TA\Debug\Import_Library_TA.pdb
